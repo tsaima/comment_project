@@ -1,0 +1,14 @@
+Maxwell - Computer Science 1a:
+Through a project-based approach that focuses on the development of creating
+efficient, readable algorithms, students will master the fundamentals of
+computational thinking and problem-solving. Students get practical experience
+solving problems through building algorithms and using the Python programming
+language. A focus on writing code effectively, in smaller chunks utilizing functions
+and debugging when necessary, will be used to help students think and create like
+computer scientists. Topics include programming language syntax, data types,
+control structures, functions, and file input/output.
+Maxwell, your best work this semester was Semester 1 Final with a score of 105, and your lowest score this semester was Unit 1 Problem Set with a score of 94.Keep up the great work!
+Your grade this year came out to an A (100%). Excellent job!
+Maxwell, Great Job on your Dictionaries!
+Maxwell, Great Job on your Functions!
+Maxwell, You should meet with me about your Matplotlib.

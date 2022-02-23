@@ -1,0 +1,58 @@
+last,first,teacher,class,course,"max_grade, topic","min_grade, topic",av_grade,Li1,S1,Li2,S2,Li3,S3,Li4,S4,Li5,S5
+Kharrazi,Arvin,VJ,Hinduism,"This course focuses on the philosophical and religious traditions of Hinduism in terms of
+foundational myths, common practice, the emphasis on ritual, categories in philosophy,
+the embrace of modernity, and the rise of religious fundamentalism. Students will add
+to their understanding of the history and the culture of India and survey examples of
+the wisdom contained in the Vedas, the Upanishads, and the Bhagavad-Gita.","102, Temple Project","82, Ritual Project",97,Compassion,1,Participation,2,---,---,---,---,---,---
+Tsai,Maxwell,Pigg,Computer Science 1a,"Through a project-based approach that focuses on the development of creating
+efficient, readable algorithms, students will master the fundamentals of
+computational thinking and problem-solving. Students get practical experience
+solving problems through building algorithms and using the Python programming
+language. A focus on writing code effectively, in smaller chunks utilizing functions
+and debugging when necessary, will be used to help students think and create like
+computer scientists. Topics include programming language syntax, data types,
+control structures, functions, and file input/output.","105, Semester 1 Final","94, Unit 1 Problem Set",100,Dictionaries,3,Functions,3,Matplotlib,1,---,---,---,---
+Lindholm,Jesse,Pigg,Algorithms,"Algorithms provide the true power and beauty behind computer science, and the
+ones studied in the course have significant intellectual depth as well as numerous
+practical applications. This course provides an introduction to algorithms for
+students who have done well in CS 1 and would like to take their CS skills to the next
+level. This course is rigorous but emphasizes the big picture and conceptual
+understanding over low-level implementation and mathematical details. Some of
+the topics covered in this course include: asymptotic (""Big-oh"") notation, sorting and
+searching, divide and conquer, randomized algorithms (QuickSort, contraction
+algorithm for min cuts), applications of breadth-first and depth-first search over
+graphs (including shortest paths and social network analysis), greedy algorithms,
+and dynamic programming. Time permitting, we may extend our new powers and
+build applications for the web which make use of the algorithms we develop.","73, Unit 2 Problem Set","54, Unit 6 Problem Set",68,Sets,1,Looping,1,CSV Files,2,---,---,---,---
+Tieu,Ethan,Drugan,AP Calculus BC,"This is a college-level introductory calculus course designed to cover all the topics in
+Advanced Placement Calculus AB (see above) as well as Parametric Equations and
+Polar Coordinates (motion in the plane, speed and velocity, tangent lines, area, and
+arc length) and Sequences and Series (recursive sequences, convergence of
+sequences, geometric series, convergence of series, convergence tests, power series,
+Taylor polynomials, Taylor series, and Lagrange’s error bound). The goal of this course
+is to introduce students to the fundamental ideas of single-variable calculus while
+preparing them for success on the AP Calculus BC Exam. An emphasis will be placed
+on conceptual understanding, cultivating problem solving skills, implementing
+technology, and developing mathematical intuition. Applications to geometry,
+science, economics, and numerical methods will be included.","95, Integration Exam","78, Semester 1 Final",89,Limits,1,Differention,1,Integration,2,Addition,1,---,---
+Tieu,Andrew,Henry,US History I,"This course explores major developments in the United States from the beginning of
+the American Revolution through Reconstruction in order to broaden and challenge
+interpretations of what it means to be an American. Through asking essential
+questions—Why did British rule become a threat to liberty? What is the purpose of
+government? What is more important to us: freedom or equality?—students
+develop chronological, conceptual, and critical thinking skills. In addition to honing
+their written and oral communication tools, students in this course will also learn to
+think like historians by seeking multiple perspectives, analyzing causes and effects,
+and evaluating key turning points.","94, Final DBQ","84, In-class Writing Assessment",89,DBQ's,2,Formative Essays,3,Participation,2,Homework,1,,
+Chang,Aaron,Jack,Fine Art Photography,"This class introduces and explores 35mm black and white photography using SLR
+(single-lens reflex) cameras and darkroom techniques. As students develop an
+understanding of their craft, they will have additional opportunities to explore digital
+photography techniques and equipment (DSLR), digital editing and printing, and
+create an online portfolio. Light, lenses, composition, shutter speed, aperture, and
+the chemical processing of film and photographs will be central themes. Students
+will use their understanding of photographic techniques and processes to explore
+their aesthetic sensibility and express their unique creative voice. Regular group
+critique sessions allow students to share their work with an audience of peers and
+develop skills in presenting work and delivering/receiving constructive criticism.
+Students who have taken the class prior will have the opportunity to explore
+advanced level work using their choice of film and/or digital cameras.","100, Project 2","92, Project 4",97,Project 1,2,Project 2,3,Project 3,2,Project 4,1,Project 5,2

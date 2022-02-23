@@ -1,0 +1,18 @@
+Jesse - Algorithms:
+Algorithms provide the true power and beauty behind computer science, and the
+ones studied in the course have significant intellectual depth as well as numerous
+practical applications. This course provides an introduction to algorithms for
+students who have done well in CS 1 and would like to take their CS skills to the next
+level. This course is rigorous but emphasizes the big picture and conceptual
+understanding over low-level implementation and mathematical details. Some of
+the topics covered in this course include: asymptotic ("Big-oh") notation, sorting and
+searching, divide and conquer, randomized algorithms (QuickSort, contraction
+algorithm for min cuts), applications of breadth-first and depth-first search over
+graphs (including shortest paths and social network analysis), greedy algorithms,
+and dynamic programming. Time permitting, we may extend our new powers and
+build applications for the web which make use of the algorithms we develop.
+Jesse, your best work this semester was Unit 2 Problem Set with a score of 73, and your lowest score this semester was Unit 6 Problem Set with a score of 54.Please meet with me during office hours times so I can check in with you about the topics we are learning.
+Your grade this year came out to a D (68%).
+Jesse, You should meet with me about your Sets.
+Jesse, You should meet with me about your Looping.
+Jesse, You need to improve on your CSV Files.

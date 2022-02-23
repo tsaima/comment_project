@@ -1,0 +1,305 @@
+lastname,firstname,grade,type,advisor,dorm_parent,A,B,C,D,E,F,G,the_date
+Aldrich,Luke,11,Day,Gregg,---,Boyle,Odom,---,Reaves,Caditz,Al-Jawhari,Seltzer,2021-11-19 12:30:00
+Anderson,Nicole,12,Day,Davis,---,Slenning,Gilbride,Miller,---,Odom,Schauffler,Gregg,2021-11-17 08:30:00
+Baldwin,Hugh,10,Day,Drugan,---,Jack,Zanchettin,"O'Hara, R",---,Meda,Apperson,Whitebirch,2021-11-18 12:00:00
+Barnette,Patrick,12,Day,Portman,---,Slenning,Standley,Sathyaraj,Orr,---,Henry,Tambellini,2021-11-17 08:30:00
+Barnette,Stella,10,Day,Odom,---,Jack,Boyle,Sikkink,Edge,---,Apperson,Orr,2021-11-17 09:30:00
+Bender,Nathan,9,Day,Al-Jawhari,---,Lewis,Biswas,Portman,Buonincontro,Meda,Pritchard,Sikkink,2021-11-17 09:30:00
+Bennett,Jamie,9,Day,Sikkink,---,Stone,Boyle,Michiels,Edge,Biswas,Pritchard,"O'Hara, A",2021-11-19 13:30:00
+Bergquam,Elsa,11,Day,Jelinek,---,Jack,Orr,Tambellini,"O'Hara, A",Gilbride,Al-Jawhari,---,2021-11-19 13:30:00
+Bhardwaj,Lara,11,Day,Orr,---,Jack,Miller,Sathyaraj,---,Caditz,Al-Jawhari,Davis,2021-11-19 07:30:00
+Bissell,Sylvie,12,Day,Grenert-Funk,---,Slenning,Seltzer,Henry,Orr,McIvor,Sikkink,---,2021-11-17 09:00:00
+Black,Amina,9,Day,Sikkink,---,Perry,Henkle,Portman,Stone,Biswas,Pritchard,Sikkink,2021-11-17 16:00:00
+Blancarte,Jose,12,Boarding,Schauffler,Akehurst,Drugan,Pigg,Miller,Lillevik,Perry,Biswas,---,2021-11-16 16:30:00
+Bloom,Carson,11,Day,Kimball,---,Tambellini,Sathyaraj,Standley,Al-Jawhari,Caditz,McIvor,---,2021-11-19 09:30:00
+Borden,Isaac,12,Day,Horvat,---,Slenning,Pigg,Horvat,"O'Hara, A",Appel,Odom,---,2021-11-18 15:30:00
+Boyer,Hunter,10,Day,Miller,---,Kimball,Boyle,Sikkink,Steele,Meda,---,Apperson,2021-11-18 10:30:00
+Bradley,Kate,12,Day,Portman,---,Miller,Gilbride,Slenning,Orr,---,Sikkink,Davis,2021-11-17 08:00:00
+Brezina,Edward,10,Day,Sullivan,---,Gilbride,Kimball,Seltzer,---,Apperson,Al-Jawhari,Zanchettin,2021-11-17 17:00:00
+Buckley,Lily,9,Day,Apperson,---,Perry,Biswas,Hatzikos,Pritchard,Schauffler,Henkle,"O'Hara, A",2021-11-19 10:30:00
+Bullard,Zoe,10,Day,Gilbride,---,Boyle,Henkle,Sikkink,---,Apperson,---,Orr,2021-11-18 13:00:00
+Buonincontro,Lou,10,Day,Sullivan,---,Hatzikos,Zanchettin,Standley,Henry,"O'Hara, R",---,Henkle,2021-11-19 13:00:00
+Buraka,Surra,9,Day,Malec,---,Perry,Odom,Portman,Pritchard,Henkle,Reaves,Kimball,2021-11-17 16:00:00
+Burley,Savannah,9,Day,Forness,---,Perry,Biswas,Portman,Buonincontro,Schauffler,Henkle,Pritchard,2021-11-18 08:00:00
+Burlingame,Lola,9,Day,Reaves,---,Stone,Henkle,Michiels,Pritchard,Portman,McCrary,Kimball,2021-11-17 14:30:00
+Button,Grant,10,Day,Hatzikos,---,Lewis,Kimball,Sikkink,Al-Jawhari,---,Brown,Apperson,2021-11-19 08:30:00
+Camara,Adrianna,9,Day,Tambellini,---,Lewis,Henkle,Caditz,Stone,Portman,Reaves,Pritchard,2021-11-18 14:30:00
+Cargill,Aaron,11,Day,Henkle,---,Tambellini,Pigg,Standley,Lillevik,Caditz,---,Seltzer,2021-11-18 12:00:00
+Carson,Maddy,12,Day,Powers,---,Orr,---,Miller,"O'Hara, A",Slenning,---,Seltzer,2021-11-17 11:00:00
+Carter,Braeden,11,Day,Kimball,---,Portman,Orr,Sathyaraj,Reaves,Gilbride,Drugan,---,2021-11-18 14:00:00
+Carter,Logan,11,Day,Henkle,---,Sathyaraj,Pigg,Boyle,Reaves,---,Gregg,Drugan,2021-11-18 13:30:00
+Castro-Botello,Cesar,12,Day,Horvat,---,Hatzikos,---,Weiler,Orr,Al-Jawhari,Schauffler,Seltzer,2021-11-18 09:00:00
+Cecere,Lydia,11,Day,McIvor,---,Caditz,Miller,Standley,Kimball,Gilbride,Al-Jawhari,---,2021-11-17 17:00:00
+Chan,Matthew,11,Day,Steele,---,Odom,Drugan,Boyle,Steele,Zanchettin,Gregg,---,2021-11-18 07:30:00
+Chang,Aaron,11,Day,Michiels,---,Jack,Orr,Tambellini,---,Gilbride,Henry,Drugan,2021-11-17 15:30:00
+Chang,Calvin,10,Day,Drugan,---,Kimball,Meda,---,Schauffler,Odom,Apperson,Boyle,2021-11-19 10:00:00
+Chawla,Gyan,10,Day,Miller,---,Schauffler,Odom,"O'Hara, R",Gilbride,Henkle,---,Apperson,2021-11-17 09:00:00
+Chen,Alex,11,Day,Orr,---,Pigg,Sathyaraj,Boyle,---,Zanchettin,Gregg,Drugan,2021-11-17 14:00:00
+Chen,Gigi,10,Boarding,Henry,Hatzikos,Lewis,Kimball,Sikkink,---,Steele,Apperson,Drugan,2021-11-15 19:30:00
+Chen,Julia,9,Day,Edge,---,Gilbride,"O'Hara, A",Michiels,Pritchard,Biswas,Brown,Henkle,2021-11-18 07:30:00
+Chin,Alexander,9,Day,Edge,---,Al-Jawhari,Boyle,Portman,Caditz,Steele,Pritchard,Sikkink,2021-11-17 14:00:00
+Cissna,Isaac,10,Day,Perry,---,Kimball,Boyle,---,Henry,Meda,Odom,Zanchettin,2021-11-19 07:30:00
+Cohen,Will,10,Day,Odom,---,Odom,Henry,"O'Hara, R",Lewis,Henkle,---,Zanchettin,2021-11-18 10:00:00
+Colleran,Alex,12,Day,Grenert-Funk,---,Apperson,Sathyaraj,Miller,Orr,Al-Jawhari,---,---,2021-11-18 12:00:00
+Compton,Christian,10,Day,Drugan,---,Kimball,Boyle,Weiler,Henry,Henkle,Tambellini,---,2021-11-18 10:30:00
+Copp,Harrison,12,Day,Weiler,---,Portman,Odom,Slenning,Perry,Appel,Biswas,---,2021-11-17 11:00:00
+Copp,Mathilde,10,Day,Odom,---,Kimball,Meda,---,---,Apperson,McIvor,Zanchettin,2021-11-18 09:30:00
+Costello,Declan,9,Day,Caditz,---,Hatzikos,Sikkink,Caditz,Gilbride,Portman,Pritchard,Henkle,2021-11-17 09:00:00
+D'Ascenzo,Dominic,12,Day,Grenert-Funk,---,Stone,Pigg,Miller,---,Appel,Drugan,Gregg,2021-11-17 16:30:00
+Dao,Lucien,11,Day,Gregg,---,Odom,Drugan,Boyle,"O'Hara, A",Zanchettin,Gregg,---,2021-11-17 17:00:00
+Davis Lawrence,Flynn,9,Day,Tambellini,---,Edge,Boyle,Michiels,Buonincontro,Biswas,Pritchard,"O'Hara, A",2021-11-17 16:30:00
+Deng,Ava Rose,10,Day,Miller,---,Schauffler,Henry,Perry,Buonincontro,"O'Hara, R",Henkle,---,2021-11-19 14:30:00
+Do,Ava,10,Day,Drugan,---,---,Kimball,Davis,Lewis,Apperson,Tambellini,Meda,2021-11-19 14:30:00
+Dolich,Mack,12,Day,Horvat,---,Miller,Odom,Slenning,Orr,McIvor,Odom,---,2021-11-18 13:30:00
+Doumbia,Bela,9,Day,Al-Jawhari,---,Reaves,Odom,Perry,Edge,Portman,Pritchard,Kimball,2021-11-17 10:30:00
+Dube,Sophia,11,Day,Kimball,---,Jack,Miller,Pigg,---,Gilbride,Gregg,Drugan,2021-11-18 08:00:00
+Duden,Jacob,10,Day,Gilbride,---,Odom,Henry,"O'Hara, R",Schauffler,Henkle,McCrary,---,2021-11-17 10:00:00
+Dupuch,Chaela,9,Boarding,Al-Jawhari,Akehurst,Odom,Sikkink,Meda,French I,Portman,Pritchard,Kimball,2021-11-15 16:30:00
+Edwards,Tyler,12,Day,Horvat,---,Slenning,---,Henry,"O'Hara, A",McIvor,Schauffler,Gregg,2021-11-17 14:30:00
+Ehrlich,Benjamin,9,Day,Forness,---,Perry,Henkle,Hatzikos,Caditz,Portman,Reaves,Pritchard,2021-11-18 10:30:00
+Ehrlich,Henry,12,Day,Grenert-Funk,---,Portman,Sathyaraj,Standley,Orr,Slenning,---,Tambellini,2021-11-18 10:00:00
+Elabdeia,Kais,9,Boarding,Malec,Akehurst,Stone,"O'Hara, A",Meda,Gilbride,Schauffler,Pritchard,Kimball,2021-11-18 12:00:00
+Engels,Aiden,10,Day,Miller,---,Schauffler,Henry,Hatzikos,Lewis,Henkle,---,Orr,2021-11-19 08:00:00
+Erfan,Hafsa,11,Day,McIvor,---,Lewis,Drugan,Seltzer,Kimball,Zanchettin,Gregg,---,2021-11-17 09:30:00
+Ettinger,Julian,10,Day,"O'Hara, A",---,Jack,Boyle,Sikkink,Henry,Henkle,---,Orr,2021-11-17 10:30:00
+Fang,Joe,10,Boarding,Perry,Zanchettin,Kimball,Zanchettin,---,Michiels,Odom,Apperson,Drugan,2021-11-15 20:30:00
+Farley,Anna,10,Day,"O'Hara, A",---,Odom,Zanchettin,Perry,---,Henkle,Apperson,Orr,2021-11-17 15:30:00
+Faucera,Olivia,12,Day,Davis,---,Apperson,---,Horvat,Lillevik,Appel,Henry,---,2021-11-17 16:30:00
+Ferguson,Flynn,11,Day,Michiels,---,Gilbride,Miller,Gregg,"O'Hara, A",Al-Jawhari,Odom,---,2021-11-19 12:00:00
+Ferris Wayne,Niall,12,Day,Sathyaraj,---,Pigg,Gilbride,Slenning,Steele,---,Henry,Tambellini,2021-11-17 09:30:00
+Ferris Wayne,Tully,9,Day,Cecere,---,Perry,Biswas,Weiler,Pritchard,Meda,Reaves,"O'Hara, A",2021-11-17 09:00:00
+Fitzloff,Mia,11,Day,Lewis,---,Caditz,Meda,Henry,Reaves,Perry,---,Davis,2021-11-17 17:00:00
+Forney,Cyrus,11,Day,Kimball,---,Sathyaraj,Miller,Gregg,Buonincontro,Lewis,Drugan,---,2021-11-17 14:00:00
+Freres,Asher,9,Boarding,Slenning,Hatzikos,Hatzikos,Biswas,Michiels,French I,Pritchard,"O'Hara, A",Henkle,2021-11-15 16:30:00
+Freres,Hap,10,Boarding,Sullivan,Slenning,Lewis,Zanchettin,"O'Hara, R",---,Henkle,Odom,Apperson,2021-11-15 16:00:00
+Freres,Rand,10,Boarding,Jack,Cecere,Kimball,Boyle,Davis,---,Apperson,Tambellini,Meda,2021-11-18 10:00:00
+Frias,Diego,9,Day,Sikkink,---,Al-Jawhari,Biswas,Weiler,Gilbride,Schauffler,"O'Hara, A",Pritchard,2021-11-17 12:30:00
+Frias,Nina,11,Day,Michiels,---,Tambellini,Meda,Gregg,Kimball,Gilbride,---,Davis,2021-11-17 13:00:00
+Gabrielson,Cameron,10,Day,Perry,---,Jack,Kimball,---,Schauffler,Apperson,McIvor,Meda,2021-11-18 15:30:00
+Gaiser,Kara,12,Day,Sathyaraj,---,Orr,Sathyaraj,Standley,---,Slenning,Schauffler,Edge,2021-11-18 14:30:00
+Gao,Josiah,10,Boarding,Henry,Malec,Schauffler,Odom,---,Michiels,Apperson,Henkle,Orr,2021-11-16 17:30:00
+Gao,Yuankai,10,Day,"O'Hara, A",---,Kimball,Meda,---,Schauffler,Steele,Apperson,Boyle,2021-11-18 14:30:00
+Geary,Knute,11,Day,Boyle,---,Lewis,Seltzer,Hatzikos,Reaves,Caditz,Al-Jawhari,---,2021-11-17 11:00:00
+Geniblazo,Ennio,9,Day,Sikkink,---,Al-Jawhari,Boyle,Davis,Pritchard,Biswas,Reaves,"O'Hara, A",2021-11-18 12:00:00
+Getz,Cameron,12,Day,Pritchard,---,Portman,Standley,Slenning,Kimball,Appel,---,---,2021-11-18 12:30:00
+Gewecke,Catherine,9,Day,Forness,---,Lewis,Sikkink,Caditz,Pritchard,Meda,Brown,"O'Hara, A",2021-11-18 07:30:00
+Gewecke,Henry,11,Day,Lewis,---,Jack,Pigg,Gregg,---,Zanchettin,Edge,Boyle,2021-11-18 08:00:00
+Gibbs,Ruby,10,Day,"O'Hara, A",---,Kimball,Meda,---,Schauffler,Apperson,McIvor,Davis,2021-11-17 16:00:00
+Gibson,Charlotte,9,Day,Reaves,---,Reaves,Henkle,Hatzikos,French I,Pritchard,"O'Hara, A",Kimball,2021-11-17 13:30:00
+Gillespie,Peter,12,Day,Meda,---,Drugan,Odom,Henry,Kimball,---,Schauffler,Davis,2021-11-19 13:30:00
+Gilster,Olin,11,Day,Orr,---,Tambellini,Orr,Pigg,---,Gilbride,Odom,Drugan,2021-11-18 12:30:00
+Gong,Macy,10,Day,Gilbride,---,Kimball,Drugan,Sikkink,---,Gilbride,Brown,Apperson,2021-11-18 09:00:00
+Gray,Kiko,11,Day,Boyle,---,Caditz,Seltzer,Tambellini,Steele,Al-Jawhari,McIvor,---,2021-11-19 14:00:00
+Green,Lily,11,Day,Gregg,---,Apperson,Miller,Sathyaraj,Stone,Caditz,Henkle,---,2021-11-17 13:30:00
+Grove-Fanning,Willa,10,Day,Hatzikos,---,Hatzikos,Henry,Perry,---,"O'Hara, R",Henkle,Zanchettin,2021-11-16 16:00:00
+Guan,Kitty,11,Boarding,McIvor,Hatzikos,Sathyaraj,Standley,Tambellini,Lillevik,Caditz,---,---,2021-11-15 20:30:00
+Guo,Michelle,11,Boarding,"O'Hara, R",Buonincontro,Sathyaraj,Boyle,Gregg,Reaves,Odom,---,Drugan,2021-11-15 19:30:00
+Hale,Hollis,11,Day,Kimball,---,Jack,Miller,Seltzer,Lewis,Caditz,Al-Jawhari,---,2021-11-17 08:00:00
+Halpin,Ellis,9,Day,Forness,---,Perry,"O'Hara, A",Hatzikos,Edge,Schauffler,Pritchard,Kimball,2021-11-19 14:30:00
+Hamm,Ani,11,Day,Kimball,---,Hatzikos,Orr,Davis,Reaves,Lewis,---,Meda,2021-11-18 07:30:00
+Han,Peter,9,Boarding,Edge,Malec,Al-Jawhari,Biswas,Hatzikos,Michiels,Pritchard,Reaves,"O'Hara, A",2021-11-15 16:00:00
+Hapke,Oscar,12,Day,Sathyaraj,---,Drugan,Pigg,Boyle,---,---,Schauffler,Davis,2021-11-17 17:00:00
+Hatler,Isabelle,9,Day,Tambellini,---,Hatzikos,Boyle,Portman,Edge,Pritchard,Reaves,Kimball,2021-11-18 09:00:00
+Heinecke,Leoni,9,Day,Edge,---,Perry,Sikkink,Hatzikos,Caditz,Pritchard,"O'Hara, A",Henkle,2021-11-19 14:00:00
+Hendrickson,Annie,12,Day,Powers,---,Portman,Sathyaraj,Slenning,Orr,---,Sikkink,Gregg,2021-11-18 09:00:00
+Hendrickson,Emily,9,Day,Malec,---,Reaves,Odom,Portman,Edge,Lewis,Pritchard,Kimball,2021-11-18 08:30:00
+Henry,Zaira,11,Boarding,Boyle,Al-Jawhari,Caditz,Miller,Boyle,Buonincontro,---,Al-Jawhari,Apperson,2021-11-15 18:30:00
+Hillis,Tatum,10,Day,Sullivan,---,Edge,Seltzer,Perry,Schauffler,Apperson,---,Orr,2021-11-18 10:00:00
+Hou,Andrew,12,Boarding,Horvat,Malec,Drugan,---,Horvat,---,Slenning,Schauffler,Gregg,2021-11-15 17:00:00
+Hsu-Chen,Athena,10,Day,Odom,---,Gilbride,Henry,Sathyaraj,Al-Jawhari,"O'Hara, R",---,Zanchettin,2021-11-19 14:30:00
+Hu,Mark,10,Boarding,Jack,Buonincontro,Stone,Zanchettin,Weiler,Al-Jawhari,---,Apperson,Orr,2021-11-15 20:00:00
+Huang,Aaron,11,Boarding,Michiels,Cecere,Drugan,Pigg,Sathyaraj,Lillevik,Zanchettin,Gregg,---,2021-11-16 19:30:00
+Hubbard,Elise,9,Day,Apperson,---,Edge,Sikkink,Portman,Caditz,Steele,McCrary,Pritchard,2021-11-18 16:00:00
+Hubbard,Hayden,11,Day,Lewis,---,Tambellini,Orr,Seltzer,Lewis,---,Drugan,Davis,2021-11-18 16:30:00
+Hummelt,Addie,12,Day,Powers,---,Miller,Drugan,Slenning,Orr,McIvor,---,Davis,2021-11-17 16:00:00
+Hurliman,Colin,12,Day,Portman,---,Apperson,---,Standley,Lillevik,---,Schauffler,Boyle,2021-11-17 17:00:00
+Ing,Fiona,11,Day,Henkle,---,Pigg,Drugan,Tambellini,Lewis,Slenning,Gregg,---,2021-11-16 18:30:00
+Inscore,Matthew,9,Day,Apperson,---,Al-Jawhari,Biswas,Weiler,Gilbride,Schauffler,"O'Hara, A",Pritchard,2021-11-17 14:00:00
+Iyer,Yasmin,10,Day,Perry,---,Schauffler,Kimball,Seltzer,---,Apperson,McIvor,Meda,2021-11-19 12:00:00
+Jacobson,Scarlet,10,Day,Biswas,---,Gilbride,Kimball,---,Schauffler,Odom,Apperson,Meda,2021-11-18 12:30:00
+Jamieson,R.E.,9,Day,Cecere,---,Edge,"O'Hara, A",Caditz,Steele,Schauffler,McCrary,Pritchard,2021-11-18 16:30:00
+Jaroonjetjumnong,Claire,11,Boarding,Michiels,Cecere,Gilbride,Pigg,Sathyaraj,---,Zanchettin,Gregg,Meda,2021-11-16 18:30:00
+Jelinek,Eliska,11,Day,"O'Hara, R",---,Sathyaraj,Pigg,Boyle,Reaves,---,Gregg,Drugan,2021-11-17 16:00:00
+Johnson,Ellie,9,Day,Apperson,---,Al-Jawhari,Sikkink,Hatzikos,Pritchard,Lewis,"O'Hara, A",Kimball,2021-11-18 14:00:00
+Johnson,Nico,12,Day,Portman,---,---,Sathyaraj,Slenning,Steele,McIvor,Sikkink,Whitebirch,2021-11-18 13:30:00
+Kaiser,Nina,9,Day,Slenning,---,Al-Jawhari,Sikkink,Weiler,Caditz,Lewis,"O'Hara, A",Pritchard,2021-11-17 13:00:00
+Kalu,Ruth,11,Boarding,McIvor,Akehurst,Caditz,Miller,---,Stone,Lewis,Al-Jawhari,Seltzer,2021-11-15 16:00:00
+Kamineni,Ria,10,Day,Sullivan,---,Al-Jawhari,Kimball,---,Henry,Odom,McIvor,Zanchettin,2021-11-19 07:30:00
+Karl,Tobias,9,Day,Caditz,---,Boyle,Sikkink,Portman,Steele,Biswas,Pritchard,Henkle,2021-11-17 16:30:00
+Karl,Torben,12,Day,Weiler,---,Apperson,Standley,Slenning,Orr,---,Sikkink,Tambellini,2021-11-17 16:00:00
+Kashey,Kai,12,Day,Stone,---,Apperson,Gilbride,Weiler,Stone,Slenning,---,Tambellini,2021-11-17 10:30:00
+Keene,Will,9,Day,Forness,---,Boyle,Sikkink,Weiler,Caditz,Portman,Pritchard,Henkle,2021-11-17 10:30:00
+Kellogg,Sebi,9,Day,Slenning,---,Hatzikos,Henkle,Caditz,Pritchard,Portman,McCrary,Sikkink,2021-11-17 15:30:00
+Kelsay,Conrad,10,Day,Odom,---,Kimball,Zanchettin,Davis,Al-Jawhari,Apperson,McIvor,---,2021-11-17 12:30:00
+Kharrazi,Arvin,11,Day,"O'Hara, R",---,Hatzikos,Miller,Pigg,Al-Jawhari,Caditz,---,Boyle,2021-11-18 14:00:00
+Kim,Kofi,9,Day,Slenning,---,Reaves,"O'Hara, A",Weiler,Caditz,Pritchard,Henkle,Whitebirch,2021-11-18 09:30:00
+King,Mason,10,Day,Hatzikos,---,Schauffler,Meda,"O'Hara, R",Henry,Lewis,Odom,---,2021-11-17 16:30:00
+King,Tanner,9,Day,Sikkink,---,Perry,Henkle,Weiler,Pritchard,Biswas,"O'Hara, A",Sikkink,2021-11-17 17:00:00
+Kitzis,Margot,9,Day,Cecere,---,Reaves,"O'Hara, A",Hatzikos,Caditz,Lewis,Henkle,Pritchard,2021-11-19 09:30:00
+Knight,Odessa,9,Day,Caditz,---,Perry,Odom,Michiels,Caditz,Pritchard,"O'Hara, A",Henkle,2021-11-17 14:30:00
+Ko,Ara,10,Boarding,Biswas,Al-Jawhari,Kimball,Zanchettin,---,Stone,Meda,McCrary,Apperson,2021-11-16 17:30:00
+Kobos,Ava,10,Day,Biswas,---,Schauffler,Henry,Seltzer,---,Meda,McIvor,Orr,2021-11-18 14:00:00
+Kondo,Lisa,12,Boarding,Schauffler,Slenning,Portman,---,Davis,Lillevik,Odom,Edge,Tambellini,2021-11-15 17:30:00
+Korngold,Ben,9,Day,Sikkink,---,Hatzikos,Boyle,Caditz,Pritchard,Meda,Reaves,"O'Hara, A",2021-11-18 15:30:00
+Kosaka,Yu,12,Boarding,Grenert-Funk,Hatzikos,Miller,Sathyaraj,Standley,"O'Hara, A",Slenning,Drugan,---,2021-11-15 17:00:00
+Kover,Jaya,9,Day,Caditz,---,Perry,Odom,Michiels,Pritchard,Biswas,"O'Hara, A",Henkle,2021-11-18 09:00:00
+Kover,Leela,9,Day,Edge,---,Perry,Biswas,Portman,Stone,Schauffler,Pritchard,Henkle,2021-11-18 09:30:00
+Kraft,Gabrielle,11,Day,Gregg,---,Sathyaraj,Orr,---,Al-Jawhari,Zanchettin,Henry,Boyle,2021-11-16 16:00:00
+Kucera,Uma,9,Day,Caditz,---,Odom,Boyle,Michiels,Edge,Pritchard,"O'Hara, A",Kimball,2021-11-15 19:00:00
+Lamb,Maeve,11,Day,Henkle,---,Tambellini,Drugan,Boyle,Kimball,---,Gregg,Seltzer,2021-11-19 12:00:00
+Lamb,Solomon,10,Day,"O'Hara, A",---,Odom,Boyle,---,Edge,"O'Hara, R",Tambellini,Apperson,2021-11-18 08:00:00
+Lee,Jun,11,Boarding,Boyle,Buonincontro,Tambellini,Orr,Henry,Steele,---,Brown,Drugan,2021-11-15 20:30:00
+Lee,Samuel,10,Day,Gilbride,---,Lewis,Zanchettin,Davis,---,"O'Hara, R",Henkle,Apperson,2021-11-19 14:00:00
+Li,Richard,10,Day,Perry,---,Lewis,Henry,"O'Hara, R",Schauffler,---,Al-Jawhari,Davis,2021-11-17 13:00:00
+Lim,YooJin,12,Boarding,Weiler,Slenning,Hatzikos,---,Henry,Lillevik,Gilbride,Sikkink,---,2021-11-16 17:00:00
+Lin,Daphne,9,Day,Forness,---,Stone,Sikkink,Portman,Caditz,Meda,McCrary,Pritchard,2021-11-18 13:00:00
+Lindholm,Barrett,11,Day,"O'Hara, R",---,Caditz,Miller,Standley,"O'Hara, A",Gilbride,Edge,---,2021-11-19 08:30:00
+Lindholm,Jesse,11,Day,Michiels,---,Pigg,Orr,Sathyaraj,Reaves,Gilbride,---,Drugan,2021-11-19 09:00:00
+Liss,Doris,12,Day,Pritchard,---,Miller,Sathyaraj,Boyle,---,---,Edge,Gregg,2021-11-17 10:00:00
+Liu,Ray,10,Boarding,Gilbride,Hatzikos,Schauffler,Meda,Davis,---,Apperson,McCrary,Orr,2021-11-15 20:00:00
+Liu,Stella,11,Boarding,Kimball,Malec,Portman,Seltzer,Gregg,Reaves,---,Edge,Davis,2021-11-16 17:00:00
+Lowell,Sarah,12,Day,Weiler,---,Apperson,---,Slenning,Orr,Odom,Sikkink,---,2021-11-19 12:00:00
+Ma,Kenny,9,Day,Reaves,---,Reaves,Biswas,Weiler,Pritchard,Gilbride,"O'Hara, A",Henkle,2021-11-18 16:30:00
+Magee,Grace,12,Day,Portman,---,Apperson,---,Horvat,Lillevik,Appel,Sikkink,---,2021-11-17 13:00:00
+Maki,Ruby,9,Day,Slenning,---,Hatzikos,Henkle,Portman,Lewis,Biswas,Reaves,Pritchard,2021-11-17 14:00:00
+Mansfield,Connor,12,Day,Pritchard,---,Jack,Drugan,Horvat,Orr,Appel,---,Tambellini,2021-11-17 11:00:00
+Matheson-Lieber,AJ,11,Day,Jelinek,---,Sathyaraj,Standley,Gregg,Reaves,Perry,---,Edge,2021-11-17 09:00:00
+Mathur,Maya,9,Boarding,Sikkink,Powers,Stone,"O'Hara, A",Meda,Caditz,Pritchard,McCrary,Sikkink,2021-11-17 08:30:00
+Matthews,Alexander,10,Day,Biswas,---,---,Henry,Seltzer,Schauffler,Gilbride,Al-Jawhari,Orr,2021-11-19 08:30:00
+Matthews,Morgan,10,Day,Zanchettin,---,Sathyaraj,Henry,"O'Hara, R",Al-Jawhari,Gilbride,Tambellini,---,2021-11-19 08:00:00
+McAuley,Clara,11,Day,"O'Hara, R",---,---,Orr,Boyle,Kimball,Zanchettin,Odom,Meda,2021-11-19 10:30:00
+McCaffrey,Maggie,10,Day,Gilbride,---,Gilbride,Kimball,Seltzer,---,Apperson,Tambellini,Drugan,2021-11-19 07:30:00
+McConnell,Frances,12,Day,Stone,---,Slenning,Seltzer,Weiler,---,Odom,Sikkink,Gregg,2021-11-17 10:00:00
+McCoog,Parker,9,Day,Tambellini,---,Al-Jawhari,Sikkink,Weiler,Gilbride,Biswas,Pritchard,"O'Hara, A",2021-11-18 13:30:00
+McGinnis,Sophia,11,Day,Lewis,---,Jack,Miller,Weiler,Al-Jawhari,Caditz,---,Seltzer,2021-11-16 20:00:00
+Mehta,Ronit,12,Day,Grenert-Funk,---,---,Sathyaraj,Pigg,Orr,Appel,Henry,Gregg,2021-11-18 15:30:00
+Mena DeAutremont,Matias,12,Day,Meda,---,Stone,Seltzer,Standley,Perry,Appel,---,Edge,2021-11-19 08:00:00
+Michaux,Clara,11,Boarding,Jelinek,Cecere,Jack,Miller,Gregg,"O'Hara, A",---,Edge,Boyle,2021-11-18 09:00:00
+Miltenberger,Peter,9,Day,Caditz,---,Stone,Sikkink,Meda,Pritchard,Biswas,---,"O'Hara, A",2021-11-19 12:00:00
+Minagawa,Maho,10,Day,Drugan,---,Al-Jawhari,Kimball,Davis,Henry,---,McCrary,Zanchettin,2021-11-19 12:30:00
+Mirza,Haris,9,Day,Reaves,---,Boyle,"O'Hara, A",Hatzikos,Pritchard,Biswas,Reaves,Henkle,2021-11-17 09:30:00
+Mittal-Henkle,Vivek,12,Day,Meda,---,Jack,Sathyaraj,Slenning,"O'Hara, A",McIvor,Schauffler,---,2021-11-19 13:00:00
+Moradi,Maisam,12,Boarding,Portman,Akehurst,Sathyaraj,---,Standley,---,Slenning,Edge,Tambellini,2021-11-16 19:30:00
+Moreno,Tiago,10,Day,Zanchettin,---,Kimball,Meda,Seltzer,---,Lewis,Apperson,Zanchettin,2021-11-17 16:30:00
+Murphy,Bridget,9,Day,Apperson,---,Al-Jawhari,Sikkink,Portman,Caditz,Lewis,Odom,Pritchard,2021-11-19 13:00:00
+Murphy,Sean,11,Day,Henkle,---,Odom,Drugan,Gregg,Reaves,---,Biswas,Boyle,2021-11-19 13:30:00
+Mygrant,Henry,10,Day,Zanchettin,---,Schauffler,---,"O'Hara, R",Lewis,Al-Jawhari,Apperson,Davis,2021-11-18 15:30:00
+Myneni,Shriya,9,Day,Al-Jawhari,---,Perry,"O'Hara, A",Weiler,Pritchard,Meda,Reaves,Kimball,2021-11-19 10:00:00
+Nagahori,Kyle,9,Day,Apperson,---,Boyle,Odom,Michiels,Pritchard,Portman,Henkle,Kimball,2021-11-19 12:30:00
+Nakayama,Shawn,10,Day,Jack,---,Hatzikos,Gilbride,Sikkink,Al-Jawhari,Apperson,---,Orr,2021-11-17 14:30:00
+Naumoff,Peter,12,Day,Powers,---,Miller,Drugan,Standley,---,Slenning,Biswas,Seltzer,2021-11-18 08:00:00
+Ndubisi,Nnene,12,Day,Pritchard,---,Slenning,Standley,Horvat,Kimball,Appel,---,---,2021-11-18 10:00:00
+Nguyen,Hiathan,12,Day,Weiler,---,Slenning,Standley,Pigg,Kimball,---,Sikkink,Gregg,2021-11-17 14:30:00
+O'Connor,Sean,10,Day,Miller,---,Boyle,---,Sikkink,Henry,"O'Hara, R",Henkle,Davis,2021-11-18 16:30:00
+O'Donnell,Bruce,12,Day,Davis,---,Slenning,Sathyaraj,Davis,Orr,---,---,Tambellini,2021-11-16 16:30:00
+O'Hara,Delaney,11,Day,Jelinek,---,Apperson,Standley,Tambellini,Kimball,Caditz,Al-Jawhari,---,2021-11-18 13:00:00
+O'Hare,A,9,Day,Reaves,---,Perry,Biswas,Michiels,Stone,Pritchard,"O'Hara, A",Henkle,2021-11-19 08:00:00
+O'Hollaren,Raine,12,Day,Weiler,---,Pigg,---,Slenning,Steele,Steele,Biswas,Tambellini,2021-11-16 18:30:00
+O'Neill,Kaitlyn,10,Day,Hatzikos,---,Kimball,Meda,Seltzer,Perry,Apperson,Tambellini,---,2021-11-18 16:30:00
+Ogawa,Yusuke,11,Boarding,Boyle,Zanchettin,Caditz,Seltzer,Tambellini,Buonincontro,Apperson,---,Edge,2021-11-16 17:00:00
+Okoro,Nazo,11,Boarding,McIvor,Powers,Caditz,---,Tambellini,Steele,Al-Jawhari,McCrary,Seltzer,2021-11-17 13:00:00
+Olander,Lucas,9,Day,Cecere,---,Lewis,Henkle,Hatzikos,Caditz,Portman,Pritchard,Sikkink,2021-11-17 15:30:00
+Opsahl,Oliver,9,Day,Edge,---,Hatzikos,"O'Hara, A",Michiels,Edge,Pritchard,McCrary,Kimball,2021-11-17 13:30:00
+Palmer,Leon,10,Day,"O'Hara, A",---,Gilbride,Odom,Sikkink,Edge,"O'Hara, R",---,Apperson,2021-11-19 09:00:00
+Papathanasopoulos,Mimi,12,Boarding,Powers,Buonincontro,Miller,Standley,Horvat,Perry,Slenning,---,Drugan,2021-11-17 13:30:00
+Patrick,Anna Blake,12,Day,Weiler,---,Miller,Sathyaraj,Horvat,Lillevik,McIvor,---,Seltzer,2021-11-19 10:30:00
+Paul,Linnea,10,Day,Henry,---,---,Kimball,Sikkink,Henry,Meda,McIvor,Davis,2021-11-18 16:00:00
+Paykar,Lina,10,Boarding,Zanchettin,Al-Jawhari,Stone,---,Meda,Stone,Biswas,---,Zanchettin,2021-11-17 16:00:00
+Peng,Ryan,11,Boarding,"O'Hara, R",Slenning,Caditz,Pigg,Sathyaraj,"O'Hara, A",Zanchettin,---,Drugan,2021-11-15 18:30:00
+Perry,Malia,12,Day,Horvat,---,Apperson,Gilbride,Standley,Kimball,Slenning,Sikkink,---,2021-11-17 09:00:00
+Plowman,Madoc,9,Day,Reaves,---,Reaves,Biswas,Weiler,Lewis,Meda,"O'Hara, A",Pritchard,2021-11-17 13:00:00
+Prater,Colton,9,Day,Apperson,---,Odom,"O'Hara, A",Caditz,Gilbride,Pritchard,Reaves,Henkle,2021-11-17 08:00:00
+Price,Izzy,11,Day,"O'Hara, R",---,---,Orr,Standley,Kimball,Zanchettin,Al-Jawhari,Boyle,2021-11-18 13:30:00
+Proudman,George,10,Day,Miller,---,Odom,Zanchettin,Perry,Edge,---,Apperson,Orr,2021-11-19 09:30:00
+Pulley,Kate,10,Day,Sullivan,---,Jack,Henry,Sikkink,Lewis,"O'Hara, R",Al-Jawhari,---,2021-11-18 12:30:00
+Pulley,Kole,12,Day,Sathyaraj,---,Slenning,---,Henry,---,Appel,Biswas,Edge,2021-11-18 13:00:00
+Qureshi,Nisma,9,Day,Al-Jawhari,---,Odom,"O'Hara, A",Meda,Pritchard,Perry,Reaves,Kimball,2021-11-18 16:00:00
+Raslan,Alia,11,Day,Henkle,---,Portman,Miller,Boyle,Stone,Caditz,Drugan,---,2021-11-18 15:30:00
+Rath,Nathan,10,Day,Zanchettin,---,Hatzikos,Henry,Perry,---,Al-Jawhari,Tambellini,Orr,2021-11-19 09:00:00
+Rath,Sophia,10,Day,Gilbride,---,Odom,Meda,Perry,Henry,"O'Hara, R",Tambellini,---,2021-11-19 09:30:00
+Raymond,Maddie,10,Day,Jack,---,Schauffler,Kimball,Sathyaraj,Henry,---,McIvor,Meda,2021-11-17 12:30:00
+Reynolds,Ben,12,Day,Sathyaraj,---,Hatzikos,Drugan,Horvat,"O'Hara, A",---,Sikkink,---,2021-11-18 16:00:00
+Riser,Ellie,12,Day,Powers,---,Portman,---,Horvat,Orr,Odom,Sikkink,---,2021-11-18 16:30:00
+Robertson,Mia,9,Day,Reaves,---,Stone,Sikkink,Caditz,Lewis,Pritchard,Henkle,"O'Hara, A",2021-11-17 16:30:00
+Roe,Everett,11,Day,Orr,---,Odom,Miller,Gregg,"O'Hara, A",Perry,Edge,---,2021-11-19 10:00:00
+Roman Jordan,Alfredo,12,Boarding,Stone,Zilaff,Apperson,Sathyaraj,Standley,Kimball,---,Drugan,Tambellini,2021-11-17 11:00:00
+Roseman,Marin,10,Day,Biswas,---,Al-Jawhari,Zanchettin,Sathyaraj,Lewis,Apperson,---,Orr,2021-11-18 10:30:00
+Rothenberg,Mattea,10,Day,Miller,---,Al-Jawhari,Kimball,Seltzer,---,Lewis,Apperson,Zanchettin,2021-11-18 10:00:00
+Rothenfluch,Jack,9,Day,Malec,---,Reaves,Henkle,Hatzikos,Caditz,Pritchard,"O'Hara, A",Whitebirch,2021-11-18 16:00:00
+Ruoff,Patrick,12,Day,Davis,---,Portman,Sathyaraj,Davis,Lillevik,McIvor,---,Tambellini,2021-11-18 14:00:00
+Safawo,Nanati,12,Boarding,Stone,Zanchettin,Slenning,Boyle,Standley,Kimball,---,Drugan,Tambellini,2021-11-16 16:30:00
+Saito Takasumi,Tyler,9,Day,Slenning,---,Reaves,Odom,Caditz,Gilbride,Portman,Henkle,Pritchard,2021-11-18 07:30:00
+Sales,Aaren,9,Day,Malec,---,Perry,Odom,Michiels,Caditz,Pritchard,"O'Hara, A",Henkle,2021-11-19 13:00:00
+Sales,Ashlyn,12,Day,Portman,---,Sathyaraj,Standley,Slenning,Orr,Appel,---,---,2021-11-19 13:30:00
+Schoenkerman,Mia,9,Day,Forness,---,Lewis,Henkle,Caditz,Buonincontro,Pritchard,Reaves,"O'Hara, A",2021-11-17 08:30:00
+Schultz,Dean,12,Day,Sathyaraj,---,Odom,Sathyaraj,Boyle,Orr,---,Schauffler,Edge,2021-11-17 13:00:00
+Schwalbach,Joe,9,Day,Malec,---,Reaves,Odom,Caditz,Edge,Pritchard,McCrary,"O'Hara, A",2021-11-19 08:30:00
+Schwalbach,Sam,11,Day,Boyle,---,Odom,Seltzer,Tambellini,Al-Jawhari,Caditz,McIvor,---,2021-11-19 08:00:00
+Schwartz,Nadia,12,Day,Powers,---,Slenning,Seltzer,Miller,"O'Hara, A",McIvor,---,Gregg,2021-11-18 08:30:00
+Segal,Jonathan,12,Day,Grenert-Funk,---,Slenning,---,Horvat,"O'Hara, A",Appel,Drugan,---,2021-11-17 10:00:00
+Shang,Emily,10,Boarding,Perry,Buonincontro,---,Kimball,Sikkink,French I,Steele,Apperson,Meda,2021-11-16 19:00:00
+Shanno,Theo,9,Day,Malec,---,Perry,"O'Hara, A",Hatzikos,Pritchard,Meda,Reaves,Kimball,2021-11-17 17:00:00
+Shao,Jeff,9,Boarding,Caditz,Al-Jawhari,Al-Jawhari,Sikkink,Hatzikos,Michiels,Biswas,"O'Hara, A",Pritchard,2021-11-15 17:30:00
+Sharma,Arun,11,Day,Lewis,---,---,Seltzer,Gregg,Reaves,Perry,Brown,Drugan,2021-11-18 09:30:00
+Shenoy,Sameer,10,Day,Hatzikos,---,Kimball,Meda,Perry,Schauffler,---,Odom,Apperson,2021-11-17 10:30:00
+Shenoy,Sonia,12,Day,Davis,---,Apperson,Seltzer,Horvat,Lillevik,Perry,Sikkink,---,2021-11-17 10:00:00
+Sherpa,Peirce,12,Day,Schauffler,---,Miller,Pigg,Slenning,---,Steele,Schauffler,---,2021-11-17 09:30:00
+Sherry,Duncan,12,Day,Weiler,---,Portman,Standley,Sathyaraj,Al-Jawhari,Appel,---,---,2021-11-18 12:30:00
+Shiley,Matthew,12,Day,Stone,---,Pigg,Gilbride,Slenning,Steele,Appel,Biswas,---,2021-11-18 16:00:00
+Silverman,Tamara,12,Day,Grenert-Funk,---,Apperson,Seltzer,Miller,Stone,---,Drugan,Gregg,2021-11-17 09:30:00
+Simpson,Owen,10,Day,Odom,---,Schauffler,---,Davis,Henry,Lewis,Al-Jawhari,Orr,2021-11-19 14:00:00
+Siripun,Naphat,11,Boarding,Steele,Zilaff,Pigg,Drugan,Gregg,Reaves,Odom,Biswas,---,2021-11-15 20:00:00
+Siviglia,Ruth,9,Day,Cecere,---,Stone,Henkle,Caditz,Lewis,Schauffler,"O'Hara, A",Pritchard,2021-11-19 12:30:00
+Slovic,Jia,9,Day,Tambellini,---,Edge,"O'Hara, A",Hatzikos,Gilbride,Biswas,Pritchard,Sikkink,2021-11-17 08:00:00
+Slusher,Sydney,11,Day,Lewis,---,Tambellini,Seltzer,Boyle,Buonincontro,Al-Jawhari,Gregg,---,2021-11-17 09:00:00
+Smith,Cayton,11,Day,Gregg,---,Caditz,Standley,Tambellini,"O'Hara, A",Al-Jawhari,McIvor,---,2021-11-17 11:00:00
+Song,Serena,11,Day,McIvor,---,---,Standley,Gregg,Kimball,Zanchettin,McIvor,Meda,2021-11-19 08:30:00
+Stanley,John,11,Day,McIvor,---,Portman,Orr,Sathyaraj,Kimball,Zanchettin,Al-Jawhari,---,2021-11-17 10:00:00
+Stecker,Sophia,10,Day,Henry,---,Kimball,Meda,---,Schauffler,Odom,Apperson,Boyle,2021-11-18 08:30:00
+Stevens,Tom,10,Day,Zanchettin,---,Kimball,---,Perry,Schauffler,Apperson,Odom,Meda,2021-11-18 16:30:00
+Stillwell,Jonah,12,Day,Davis,---,Hatzikos,Sathyaraj,Pigg,Lillevik,Appel,---,---,2021-11-17 09:00:00
+Strothkamp,Nate,12,Day,Stone,---,Orr,---,Henry,Lillevik,---,Sikkink,Gregg,2021-11-18 07:30:00
+Sun,Goodrain,11,Boarding,Orr,Malec,Drugan,Orr,Slenning,Steele,Zanchettin,---,---,2021-11-16 19:00:00
+Taaffe-Levin,Seth,11,Day,Jelinek,---,Apperson,Seltzer,Boyle,Reaves,Caditz,Edge,---,2021-11-17 10:00:00
+Tait,Gemma,12,Day,Stone,---,Pigg,---,Henry,Stone,McIvor,Henry,Tambellini,2021-11-19 13:00:00
+Tang,Xiaoyan,9,Boarding,Cecere,Cecere,Stone,Biswas,Portman,Michiels,Meda,Reaves,Pritchard,2021-11-16 19:00:00
+Tashima,Kaleia,11,Day,Orr,---,Tambellini,Orr,Davis,---,Slenning,Odom,---,2021-11-18 08:00:00
+Teherani-Ami,Etti,10,Day,Biswas,---,Lewis,Henry,Sathyaraj,---,Henkle,Tambellini,Orr,2021-11-17 13:30:00
+Thammana,Pranav,12,Day,Sathyaraj,---,Pigg,Seltzer,Sathyaraj,Steele,Slenning,Schauffler,---,2021-11-17 16:30:00
+Tieu,Andrew,10,Day,Henry,---,Schauffler,Kimball,Sathyaraj,Henry,Gilbride,---,Meda,2021-11-17 11:00:00
+Tieu,Benjamin,10,Day,Perry,---,Gilbride,Henry,"O'Hara, R",---,Henkle,Tambellini,Davis,2021-11-17 14:00:00
+Tieu,Ethan,11,Day,Steele,---,Sathyaraj,Pigg,Boyle,---,Zanchettin,Gregg,Drugan,2021-11-17 10:30:00
+Tilden,Lily,10,Day,"O'Hara, A",---,Lewis,Zanchettin,Davis,---,"O'Hara, R",Henkle,Apperson,2021-11-18 12:30:00
+Tittel,Lauren,9,Day,Tambellini,---,Al-Jawhari,Biswas,Michiels,Lewis,Portman,Odom,Pritchard,2021-11-19 10:30:00
+Torres,Madeline,9,Day,Cecere,---,Perry,"O'Hara, A",Hatzikos,Caditz,Pritchard,Reaves,Henkle,2021-11-17 12:30:00
+Tsai,Maxwell,11,Day,Gregg,---,Jack,Drugan,Pigg,Reaves,Gilbride,Gregg,---,2021-11-18 12:30:00
+Tseng,Alex,10,Day,Sullivan,---,Lewis,Zanchettin,"O'Hara, R",Al-Jawhari,---,Odom,Apperson,2021-11-17 11:00:00
+Tseng,Ethan,12,Day,Powers,---,Jack,Sathyaraj,Miller,Lillevik,---,Henry,Gregg,2021-11-17 10:30:00
+Tubbs,Colson,10,Day,Drugan,---,Lewis,Kimball,Sikkink,Henry,---,Al-Jawhari,Davis,2021-11-18 14:30:00
+Ulmer,Amelia,12,Day,Pritchard,---,Apperson,---,Henry,Lillevik,McIvor,Odom,Tambellini,2021-11-19 09:00:00
+Vallabhanath,Annika,12,Day,Grenert-Funk,---,Apperson,Sathyaraj,Slenning,Perry,Appel,---,Gregg,2021-11-17 08:30:00
+Vallabhanath,Vikram,9,Day,Al-Jawhari,---,Edge,Biswas,Perry,Stone,Portman,Pritchard,Sikkink,2021-11-17 08:00:00
+Vassily,Anna,12,Day,Portman,---,Slenning,Sathyaraj,Boyle,---,Odom,Sikkink,Gregg,2021-11-19 08:30:00
+Veira,Alex,12,Day,Horvat,---,Miller,Sathyaraj,Pigg,Orr,---,Odom,Edge,2021-11-18 12:00:00
+Vo,Benley,10,Boarding,Hatzikos,Powers,Hatzikos,Henry,Weiler,Al-Jawhari,"O'Hara, R",Tambellini,---,2021-11-16 19:00:00
+Walkush,Cade,10,Day,Biswas,---,Kimball,Henry,---,Lewis,Al-Jawhari,Tambellini,Seltzer,2021-11-17 08:30:00
+Walters,Mei,10,Day,Drugan,---,---,Kimball,Perry,Schauffler,Al-Jawhari,Apperson,Seltzer,2021-11-17 08:30:00
+Wang,Frank,12,Boarding,Meda,Zilaff,Portman,Pigg,---,---,Steele,Schauffler,Gregg,2021-11-15 19:30:00
+Wang,Mia,12,Boarding,Stone,Zanchettin,Drugan,---,Miller,"O'Hara, A",Steele,---,Gregg,2021-11-16 20:00:00
+Weinstein,Zack,12,Day,Meda,---,Apperson,---,Davis,---,Slenning,Sikkink,Seltzer,2021-11-17 13:30:00
+Welsh,Summer,9,Day,Malec,---,Reaves,Biswas,Portman,Edge,Steele,McCrary,Pritchard,2021-11-17 12:30:00
+Williams,Kirby,11,Day,Michiels,---,Tambellini,---,Gregg,Kimball,Steele,McIvor,Meda,2021-11-19 14:00:00
+Wilson,James,9,Day,Caditz,---,Hatzikos,Sikkink,Caditz,Gilbride,Portman,Henkle,Pritchard,2021-11-19 14:30:00
+Wrinn,Benjamin,9,Day,Tambellini,---,Gilbride,Biswas,Portman,Pritchard,Meda,Reaves,Davis,2021-11-18 08:30:00
+Wu,Billy,10,Boarding,Henry,Zanchettin,Odom,Zanchettin,"O'Hara, R",Henry,Meda,McCrary,---,2021-11-15 19:00:00
+Wu,Irene,9,Boarding,Tambellini,Malec,Al-Jawhari,"O'Hara, A",Michiels,Michiels,Pritchard,Odom,Kimball,2021-11-15 20:00:00
+Yiu,Nicole,11,Boarding,Boyle,Zilaff,Tambellini,Odom,Weiler,"O'Hara, A",Al-Jawhari,Gregg,---,2021-11-16 20:00:00
+Yu,Jenson,9,Boarding,Al-Jawhari,Powers,Stone,Meda,Michiels,Michiels,Biswas,Pritchard,"O'Hara, A",2021-11-15 17:00:00
+Yuminaga,Haruaki,12,Boarding,Portman,Zilaff,Portman,Drugan,Sathyaraj,---,Slenning,Biswas,Tambellini,2021-11-16 16:00:00
+Zhang,Catherine,11,Boarding,Steele,Slenning,Jack,Drugan,Perry,Kimball,Zanchettin,Gregg,---,2021-11-16 17:30:00
+Zhang,Christine,11,Boarding,Orr,Zilaff,Boyle,Standley,Tambellini,"O'Hara, A",Slenning,Gregg,---,2021-11-15 19:00:00
+Zhang,Jiaming,9,Day,Slenning,---,Odom,Sikkink,Portman,Caditz,Meda,McCrary,Pritchard,2021-11-18 10:30:00
+Zhang,Richard,11,Boarding,Henkle,Powers,Boyle,Orr,Slenning,Steele,Zanchettin,---,Drugan,2021-11-16 19:30:00
+Zhong,Peter,12,Boarding,Schauffler,Al-Jawhari,Drugan,Standley,Sathyaraj,Lillevik,---,Biswas,Tambellini,2021-11-16 17:00:00
+Zhu,Catherine,12,Day,Sathyaraj,---,Apperson,Seltzer,Boyle,---,Slenning,Sikkink,Gregg,2021-11-18 08:30:00
+van Arkel,Senna,10,Day,Jack,---,Lewis,Zanchettin,Seltzer,Henry,"O'Hara, R",Henkle,---,2021-11-16 19:00:00

@@ -1,0 +1,18 @@
+Ethan - AP Calculus BC:
+This is a college-level introductory calculus course designed to cover all the topics in
+Advanced Placement Calculus AB (see above) as well as Parametric Equations and
+Polar Coordinates (motion in the plane, speed and velocity, tangent lines, area, and
+arc length) and Sequences and Series (recursive sequences, convergence of
+sequences, geometric series, convergence of series, convergence tests, power series,
+Taylor polynomials, Taylor series, and Lagrange’s error bound). The goal of this course
+is to introduce students to the fundamental ideas of single-variable calculus while
+preparing them for success on the AP Calculus BC Exam. An emphasis will be placed
+on conceptual understanding, cultivating problem solving skills, implementing
+technology, and developing mathematical intuition. Applications to geometry,
+science, economics, and numerical methods will be included.
+Ethan, your best work this semester was Integration Exam with a score of 95, and your lowest score this semester was Semester 1 Final with a score of 78.Keep working to improve.
+Your grade this year came out to a B (89%).
+Ethan, You should meet with me about your Limits.
+Ethan, You should meet with me about your Differention.
+Ethan, You need to improve on your Integration.
+Ethan, You should meet with me about your Addition.
